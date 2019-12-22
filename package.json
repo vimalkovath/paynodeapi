@@ -1,5 +1,6 @@
 {
   "name": "node-sample",
+  "version": "1.0.0",
   "description": "Our sample Node to Heroku app",
   "main": "server.js",
   "scripts": {
